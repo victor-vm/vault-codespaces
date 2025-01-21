@@ -1,10 +1,9 @@
 ### Support My Content Here:
 
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://btk.me/vb) [![Github Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/btkrausen?frequency=one-time&sponsor=btkrausen)
 
 # HashiCorp Vault Labs
 
-[![Bryan Krausen - badge-generator](https://img.shields.io/static/v1?label=btkrausen&message=Profile&color=blue&logo=github)](https://github.com/btkrausen)
+
 
 Welcome to this HashiCorp Vault lab repo, where you can get hands-on experience with **HashiCorp Vault** using GitHub Codespaces. In this repository, you’ll find a variety of [labs](./labs) that walk you through using HashiCorp Vault in different scenarios.
 
